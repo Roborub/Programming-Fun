@@ -1,0 +1,14 @@
+{
+  "name": "GayTop",
+  "version": "1.0.0",
+  "description": "This bot is pretty gay and on top",
+  "main": "app.js",
+  "author": "Wobert Wringer",
+  "dependencies": {
+    "ajax-request": "^1.2.3",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.4.2",
+    "ffmpeg": "0.0.4",
+    "request": "^2.88.0"
+  }
+}

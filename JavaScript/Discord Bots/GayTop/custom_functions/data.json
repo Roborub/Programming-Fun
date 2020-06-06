@@ -1,0 +1,40 @@
+{
+	"channel": {
+		"id": "522188073795059755"
+	},
+	"prefixes": {
+		"talk":		"!GAYBOTT_TALK",
+		"music":	"!GAYBOTT_MUSIC",
+		"leave": 	"!GAYBOTT_FUCKOFF",
+		"game": 	"!GAYBOTT_PLAYGAME",
+		"dog":		"!GAYBOTT_DOGPLS",
+		"help": 	"!GAYBOTT_HELP",
+		"avatar":	"!GAYBOTT_AVATAR",
+		"help_info": [
+			"!GAYBOTT_TALK:\tuse this to talk to me faggot.",
+			"!GAYBOTT_MUSIC:\tuse this to play some sweet tracks.",
+			"!GAYBOTT_PLAYGAME:\tuse this to make me play a game.",
+			"!GAYBOTT_DOGPLS:\tuse this to search the world of dogs.",
+			"!GAYBOTT_FUCKOFF:\tuse this ASAP."
+		]
+	},
+	"banter":	[
+		{"prompt":"Hello","response":"no."},
+		{"prompt":"Fag","response":"you're the faggot."},
+		{"prompt":"Tits","response":"I like tits."},
+		{"prompt":"Vagina","response":"hot VAGINE."},
+		{"prompt":"Fuck","response":"don't say swears."},
+		{"prompt":"Shit","response":"shit on ye mum."},
+		{"prompt":"Adam","response":"Adam is a meme."},
+		{"prompt":"Memes","response":"memes are god damn lame."},
+		{"prompt":"Link me", "response":"https://www.google.com/"},
+		{"prompt":"Play music", "response":"<MUSIC>"}
+	],
+	"defaultResponses": [
+		"I'm trying to sleep.",
+		"Leave me ALONE.",
+		"What makes you think I care.",
+		"Please go away...",
+		"No one gives a shit"
+	]
+}

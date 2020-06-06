@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\Robert\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/TestBot/"
+    ]
+}
